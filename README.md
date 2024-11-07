@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 
 Simple edit. And one more edit. And now just to add it. And now just new.
 
+Fork this repository.
+
 ### Copyright
 
 2024 Git. Training.
